@@ -1,0 +1,1 @@
+In dieser Datei befindet sich der Code für Kartendetailsanzeige.
